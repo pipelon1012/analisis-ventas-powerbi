@@ -14,8 +14,5 @@ Archivo: dataset_ventas.xlsx (200 registros ficticios).
 ## Dashboard
 Archivo Power BI: Dashboard_Ventas.pbix
 
-## Vista previa
-Agrega aquí una captura de pantalla del dashboard (opcional).
-
 ## Autor
 Luis Delgado – Ingeniero de Sistemas
